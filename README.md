@@ -57,3 +57,7 @@ lex check --strict src/
 lex fmt --check src/ tests/
 lex test tests/
 ```
+
+## License
+
+EUPL-1.2 — matches the rest of the lex ecosystem.

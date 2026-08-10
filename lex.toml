@@ -3,6 +3,7 @@ name        = "lex-memory"
 version     = "0.1.0"
 lex         = "0.10.0"
 description = "Structured per-agent memory store — KV upsert-with-supersession, append log, scoped/ranked recall, state blob, context injection. Mechanism only; hosts supply kind/scope vocabulary and policy."
+license     = "EUPL-1.2"
 
 [dependencies]
 lex-orm = { git = "https://github.com/alpibrusl/lex-orm" }
