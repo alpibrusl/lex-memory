@@ -1,7 +1,7 @@
 [package]
 name        = "lex-memory"
 version     = "0.1.0"
-lex         = "0.10.0"
+lex         = "0.10.18"
 description = "Structured per-agent memory store — KV upsert-with-supersession, append log, scoped/ranked recall, state blob, context injection. Mechanism only; hosts supply kind/scope vocabulary and policy."
 license     = "EUPL-1.2"
 
